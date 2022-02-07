@@ -1,0 +1,5 @@
+API:F5AFB223-8AD9-4FA6-8268-82FF56D2BE4B
+        Principal: bkolamac@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  7 18:35:28 2022  Feb  8 04:35:28 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
